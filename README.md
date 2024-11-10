@@ -19,7 +19,7 @@ For a deep dive into the data analyst job market, several key tools were used wh
 # The Analysis
 Each query for this project focused on exploring specific aspects of the data analyst job market. Here’s how I tackled each question:
 
-### 1. Top Paying Data Analyst Jobs
+### 1. Top Paying Data Analyst Roles
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
 ```sql
@@ -53,7 +53,7 @@ in 2023:
 ![](assets/download.png)
  *Bar graph visualizing salaries for the top 10 data analyst roles; Julius AI generated this graph from my SQL query results*
 
-### 2. Skills for Top Paying Jobs
+### 2. Skills for Top Paying Roles
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
 
 ```sql
